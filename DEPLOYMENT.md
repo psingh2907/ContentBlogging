@@ -2,15 +2,26 @@
 
 This guide will help you deploy your beautiful blogging platform to the cloud for public access.
 
+## 🆓 **FREE FOREVER: Render + Vercel** ⭐ RECOMMENDED
+
+**Perfect for personal blogs and portfolio projects!**
+
+- **Render**: Completely free backend hosting with PostgreSQL database
+- **Vercel**: Free React frontend hosting with global CDN
+- **No credit card required** for either platform
+- **750 hours/month** backend uptime (covers 24/7 for personal use)
+
+👉 **[Quick 15-Minute Setup Guide](./scripts/deploy-render.md)**
+
 ## 📋 Prerequisites
 
 - GitHub account
-- Railway account (free tier available)
-- Vercel account (free tier available)
+- Render account (free, no credit card)
+- Vercel account (free, no credit card)
 
 ---
 
-## 🎯 Option 1: Railway + Vercel (Recommended)
+## 🎯 Option 1: Railway + Vercel (Paid after 1 month)
 
 ### **Backend Deployment (Railway)**
 
